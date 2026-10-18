@@ -1,0 +1,25 @@
+# Core
+pandas
+numpy
+pyarrow
+openpyxl
+matplotlib
+seaborn
+wordcloud
+# Notebook
+jupyter
+ipykernel
+nbformat
+nbconvert
+# Part I - text mining
+nltk
+langdetect
+lingua-language-detector
+vaderSentiment
+transformers
+torch
+sentence-transformers
+bertopic
+gensim
+# Part II - modelling
+scikit-learn

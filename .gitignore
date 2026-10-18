@@ -1,0 +1,18 @@
+# Ambiente
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Dados originais (Inside Airbnb) — demasiado grandes para o GitHub (limite 100 MB); ver README
+data/
+reviews.csv
+
+# Ficheiros intermédios pesados (regeneráveis pelo notebook)
+outputs/intermediate/*.parquet
+outputs/intermediate/roberta_chunks/
+# ...exceto a chave da anotação manual (pequena e necessária para avaliar as anotações)
+!outputs/intermediate/annotation_key.parquet
+
+# Enunciado (material da unidade curricular)
+*.pdf

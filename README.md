@@ -1,7 +1,5 @@
 # Cape_Town_Reviews
 
-Projeto de grupo de **Tópicos Avançados em Data Mining** (Mestrado em Ciência de Dados e Gestão, 2026/2027).
-
 Análise dos comentários de hóspedes Airbnb de **Cape Town** (Inside Airbnb) com text mining e classificação de anúncios de alta qualidade.
 
 - **Parte I:** text mining dos comentários (qualidade dos dados, idioma, sentimento com VADER e RoBERTa, tópicos com LDA e BERTopic, variáveis de texto por anúncio).

@@ -1,3 +1,7 @@
+# Office temp files
+.~*
+~$*
+
 # Ambiente
 .venv/
 __pycache__/
